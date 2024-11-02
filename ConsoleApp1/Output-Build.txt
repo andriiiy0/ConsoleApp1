@@ -1,0 +1,5 @@
+﻿Build started at 10:25...
+1>------ Build started: Project: ConsoleApp1, Configuration: Debug Any CPU ------
+1>  ConsoleApp1 -> D:\курси\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 10:25 and took 00,209 seconds ==========
